@@ -4,7 +4,7 @@ Demo for SnackIndex project intended to be built in React Native. This was the i
 
 That said, I still keep this up because this was a lot of fun to make and I liked learning about React Native and getting my toes wet into developer environments like expo. To make it work, make sure you:
 
-1. npm install all of your dependencies
+1. npm install all of your dependencies in the "test-login-page"
 2. Have expo installed
 3. expo start
 
